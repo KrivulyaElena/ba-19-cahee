@@ -212,6 +212,11 @@
 	align-items: center;
 	height: 100px;	
 	margin-bottom: 20px;
+	
+}
+
+.service-item:hover{
+	box-shadow: 11px 13px 21px -1px #9a9a9c;
 }
 
   .service-link{
